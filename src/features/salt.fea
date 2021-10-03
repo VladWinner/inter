@@ -40,6 +40,7 @@ sub aring by aring.1;
 sub aringacute by aringacute.1;
 sub aringbelow by aringbelow.1;
 sub atilde by atilde.1;
+sub acyrillic by a.1;  # acyrillic is just a reference to /a
 
 sub l by l.ss02;
 sub lslash by lslash.ss02;
